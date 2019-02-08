@@ -1,6 +1,6 @@
 <a name="top"></a>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47443787/52493326-36945100-2bdc-11e9-8f27-be5febf5b7c1.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/47443787/52494188-63e1fe80-2bde-11e9-9428-5978d05052bd.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 # Vladislav Silitskiy
