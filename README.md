@@ -1,12 +1,15 @@
 <a name="top"></a>
 # Vladislav Silitskiy
 ## Student
+
 ### <a name="stages"></a>
  + [About me](#1) 
  + [Objective](#2)  
  + [Skills](#3)
  + [Interests](#4)
  + [Additional information](#5)
+ 
+ 
 ## <a name="1"></a> About me
 I am a student of the Faculty of Innovative Lifelong Learning in BSUIR. At the moment I'm going through training «Разработка современных веб-приложений с помощью ASP.NET и Microsoft Azure».
 ## <a name="2"></a> Objective
