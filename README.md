@@ -1,5 +1,5 @@
 <a name="top"></a>
-![avatar](https://user-images.githubusercontent.com/47443787/52492911-495a5600-2bdb-11e9-9094-4214c856bb60.png)
+![avatar](https://user-images.githubusercontent.com/47443787/52493326-36945100-2bdc-11e9-8f27-be5febf5b7c1.png)
 # Vladislav Silitskiy
 ## Student
 
