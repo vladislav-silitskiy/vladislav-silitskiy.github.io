@@ -12,21 +12,12 @@
 
 ***
 
-<p align="center">
-  <a name="stages"></a>
-  <a href="#">+ [About me](#1)</a> |
-  <a href="#">+ [Objective](#2)</a> |
-  <a href="#">+ [Skills](#3)</a>
-  <br><br>
-</p>
- 
-
 <a name="stages"></a>
- + [About me](#1)</a> |
- + [Objective](#2)</a> |
- + [Skills](#3)</a> |
- + [Interests](#4)</a> |
- + [Additional information](#5)</a>
+ + [About me](#1)
+ + [Objective](#2)
+ + [Skills](#3)
+ + [Interests](#4)
+ + [Additional information](#5)
 
 ***
  
