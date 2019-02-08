@@ -3,7 +3,6 @@
   <img src="https://user-images.githubusercontent.com/47443787/52494188-63e1fe80-2bde-11e9-9428-5978d05052bd.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-#
 
 <p align="center">
   Vladislav Silitskiy
@@ -12,8 +11,7 @@
 <p align="center">
   Student
 </p>
-
-# 
+ 
 
 ### <a name="stages"></a>
  + [About me](#1) 
@@ -21,8 +19,6 @@
  + [Skills](#3)
  + [Interests](#4)
  + [Additional information](#5)
- 
-#
  
  
 ## <a name="1"></a> About me
