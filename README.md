@@ -1,5 +1,8 @@
 <a name="top"></a>
-![avatar](https://user-images.githubusercontent.com/47443787/52493326-36945100-2bdc-11e9-8f27-be5febf5b7c1.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47443787/52493326-36945100-2bdc-11e9-8f27-be5febf5b7c1.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 # Vladislav Silitskiy
 ## Student
 
