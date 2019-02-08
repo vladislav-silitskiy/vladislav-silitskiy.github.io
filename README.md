@@ -3,8 +3,6 @@
   <img src="https://user-images.githubusercontent.com/47443787/52494188-63e1fe80-2bde-11e9-9428-5978d05052bd.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-***
-
 <head>
   <h1 align="center">Vladislav Silitskiy</h1>
   <h2 align="center">Student</h2>
