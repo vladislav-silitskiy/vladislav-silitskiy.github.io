@@ -11,11 +11,11 @@
 ***
 
 <a name="stages"></a>
- + [About me](#1)
- + [Objective](#2)
- + [Skills](#3)
- + [Interests](#4)
- + [Additional information](#5)
+ * [About me](#1)
+ * [Objective](#2)
+ * [Skills](#3)
+ * [Interests](#4)
+ * [Additional information](#5)
 
 ***
  
