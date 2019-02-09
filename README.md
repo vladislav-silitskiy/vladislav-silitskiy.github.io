@@ -15,7 +15,8 @@
   [Objective](#2) |
   [Skills](#3) |
   [Interests](#4) |
-  [Additional information](#5)
+  [Additional information](#5) |
+  [Highlights](#6)
 
 ***
 
@@ -29,6 +30,8 @@ I have programming experience in C/C++ and basic knowledge of C#.
 Interested in 3D modeling. Successfully completed the program «3DS MAX. Моделирование» in IT-school «Myfreedom». Also engaged in digital drawing and non-professional translation.
 ## <a name="5"></a> Additional information
 English proficiency level A2+ (below the average).
+## <a name="6"></a> Highlights
+Completed the course "C # Basics - For Complete Beginners" (certificate) and done a [project](https://github.com/vladislav-silitskiy/TicTacToeGame).
 
 ***
 
