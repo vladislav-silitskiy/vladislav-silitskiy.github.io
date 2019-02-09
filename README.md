@@ -31,8 +31,8 @@ Interested in 3D modeling. Successfully completed the program «3DS MAX. Мод�
 ## <a name="5"></a> Additional information
 English proficiency level A2+ (below the average).
 ## <a name="6"></a> Highlights
-Completed the course «C # Basics - For Complete Beginners» ([certificate](https://user-images.githubusercontent.com/47443787/52519801-f8e20780-2c71-11e9-81e8-21b0f7fe67a8.jpg)) and done a [project](https://github.com/vladislav-silitskiy/TicTacToeGame).
-[Link](https://www.codewars.com/users/vladislav-silitskiy) of my Codewars profile.
+- Completed the course «C # Basics - For Complete Beginners» ([certificate](https://user-images.githubusercontent.com/47443787/52519801-f8e20780-2c71-11e9-81e8-21b0f7fe67a8.jpg)) and done a [project](https://github.com/vladislav-silitskiy/TicTacToeGame).
+- [Link](https://www.codewars.com/users/vladislav-silitskiy) of my Codewars profile.
 
 ***
 
