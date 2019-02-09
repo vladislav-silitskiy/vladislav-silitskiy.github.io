@@ -21,7 +21,7 @@
 ***
 
 ## <a name="1"></a> About me
-I am a student of the Faculty of Innovative Lifelong Learning in BSUIR. At the moment I'm going through training «Разработка современных веб-приложений с помощью ASP.NET и Microsoft Azure».
+I am a student of the Faculty of Innovative Lifelong Learning in BSUIR. My specialty is «Information systems and technologies (in economics)». At the moment I'm going through training «Разработка современных веб-приложений с помощью ASP.NET и Microsoft Azure».
 ## <a name="2"></a> Objective
 Improve my knowledge in C# language and learn the basics of the ASP.NET and Microsoft Azure.
 ## <a name="3"></a> Skills
