@@ -38,6 +38,10 @@ English proficiency level A2+ (below the average).
   - [PadawansTask1](https://github.com/vladislav-silitskiy/PadawansTask1.git)
   - [PadawansTask2](https://github.com/vladislav-silitskiy/PadawansTask2.git)
   - [PadawansTask3](https://github.com/vladislav-silitskiy/PadawansTask3.git)
+  - [PadawansTask4](https://github.com/vladislav-silitskiy/PadawansTask4.git)
+  - [PadawansTask5](https://github.com/vladislav-silitskiy/PadawansTask5.git)
+  - [PadawansTask6](https://github.com/vladislav-silitskiy/PadawansTask6.git)
+  - [PadawansTask13](https://github.com/vladislav-silitskiy/PadawansTask13.git)
 
 ***
 
