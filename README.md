@@ -33,11 +33,11 @@ English proficiency level A2+ (below the average).
 ## <a name="6"></a> URLs
 - Completed the Udemy course «C # Basics - For Complete Beginners» ([certificate](https://user-images.githubusercontent.com/47443787/52519801-f8e20780-2c71-11e9-81e8-21b0f7fe67a8.jpg)) and done a [project](https://github.com/vladislav-silitskiy/TicTacToeGame).
 - [Link](https://www.codewars.com/users/vladislav-silitskiy) of my Codewars profile.
-- Padawans tasks
-  [FancyCalc](https://github.com/vladislav-silitskiy/FancyCalc.git)
-  [PadawansTask1](https://github.com/vladislav-silitskiy/PadawansTask1.git)
-  [PadawansTask2](https://github.com/vladislav-silitskiy/PadawansTask2.git)
-  [PadawansTask3](https://github.com/vladislav-silitskiy/PadawansTask3.git)
+- Padawans tasks: 
+[FancyCalc](https://github.com/vladislav-silitskiy/FancyCalc.git)
+[PadawansTask1](https://github.com/vladislav-silitskiy/PadawansTask1.git)
+[PadawansTask2](https://github.com/vladislav-silitskiy/PadawansTask2.git)
+[PadawansTask3](https://github.com/vladislav-silitskiy/PadawansTask3.git)
 
 ***
 
